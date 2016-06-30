@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  cellHome.h
 //  ViewController_005
 //
 //  Created by AlejandroRuiz on 6/29/16.
@@ -7,9 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "cellHome.h"
 
-@interface Home : UIViewController
-
+@interface cellHome : UITableViewCell
 
 @end
